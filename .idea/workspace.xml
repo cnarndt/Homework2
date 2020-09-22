@@ -1,8 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Homework2" targetName="Homework2" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf72a430-dce8-465a-bc8e-a5be3865416e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Homework2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hpKFWiBjI4boNv4SMiECRrhoAf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Homework2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Homework2" TARGET_NAME="Homework2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Homework2" RUN_TARGET_NAME="Homework2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf72a430-dce8-465a-bc8e-a5be3865416e" name="Default Changelist" comment="" />
+      <created>1600702489732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600702489732</updated>
+      <workItem from="1600702491052" duration="1489000" />
+      <workItem from="1600704074747" duration="11738000" />
+      <workItem from="1600751633994" duration="2344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="833" y="438" key="Github.ShareDialog" timestamp="1600702501510">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="833" y="438" key="Github.ShareDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1600702501510" />
+    <state x="763" y="238" key="Github.UntrackedFilesDialog" timestamp="1600702513043">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="763" y="238" key="Github.UntrackedFilesDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1600702513043" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1600753665916">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1600753665916" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1600753665915">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1600753665915" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1600753665915">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1600753665915" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1600753665915">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1600753665915" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1600753662983">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1600753662983" />
+    <state x="-1200" y="45" width="1403" height="1067" key="dock-window-1" timestamp="1600753525019">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1200" y="45" width="1403" height="1067" key="dock-window-1/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1600753525019" />
+    <state x="-1824" y="0" width="1424" height="744" maximized="true" key="dock-window-2" timestamp="1600752880356">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1824" y="0" width="1424" height="744" maximized="true" key="dock-window-2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1600752880356" />
+    <state x="685" y="324" key="refactoring.ChangeSignatureDialog" timestamp="1600748702618">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="685" y="324" key="refactoring.ChangeSignatureDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1600748702618" />
   </component>
 </project>
